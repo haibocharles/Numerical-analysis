@@ -1,4 +1,3 @@
-# Numerical-analysis
 # Numerical Analysis Projects
 
 ## Overview
